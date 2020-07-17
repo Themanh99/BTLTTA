@@ -43,7 +43,7 @@ Shape {
 	}
 	appearance Appearance {
 		texture	ImageTexture {
-			url	"Anh\gach.jpg"
+			url	"Anh\nen.png"
 			repeatS	TRUE
 			repeatT	TRUE
 		}
